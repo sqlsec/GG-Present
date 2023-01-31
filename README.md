@@ -15,9 +15,9 @@
 
 
 
-什么不知道什么是 MTMR？那么官网了解一下：
+什么不知道什么是 MTMR？那么官方下面了解一下：
 
-https://mtmr.app 
+[https://github.com/Toxblh/MTMR](https://github.com/Toxblh/MTMR )
 
 My TouchBar.My Rules.
 
